@@ -15,5 +15,5 @@ The script follows the instructions in the assigment to achieve the following ob
 <li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol>
 
-The output of step 5 is then written as a table to the file tidy.txt.
+The output of step 5 is then written as a table to the file *tidy.txt*.
 Please refer to the codebook in this same repository for more details on how the script works and the variables extracted from the original dataset.
