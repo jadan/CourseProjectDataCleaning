@@ -28,7 +28,7 @@ The features table was used to extract the relevant columns which ultimately cor
 126 127 128 163 164 165 166 167 168 203 204 216 217 229 230 242 243 255 256 268 269 270 271
 272 273 347 348 349 350 351 352 426 427 428 429 430 431 505 506 518 519 531 532 544 545 }
 
-The variable were rename so that the names are more descriptive that in the original data set. The column names preceded by an "f" correspond to the measurements that were Fourier-transformed, and thus describe the same variables in the frequency domain. All the other variables are measured in the time domain. 
+The variables were renamed so that the names are more descriptive that in the original data set. The column names preceded by an "f" correspond to the measurements that were Fourier-transformed, and thus describe the same variables in the frequency domain. All the other variables are measured in the time domain. 
 Linear jerk refers to the rate of change of the measurements produced by the accelerometer and angular jerk refers to the second derivative of the measurements produced by the gyroscope. The *-axis label denoted the axis in the corresponding sensor to which the measurements correspond. The body and gravity descriptors refer to the source of the acceleration. The mean and standard deviation descriptors are self-explanatory. The magnitude descriptor refers to the Euclidean norm of the variable in the 3 axis. 
 Variables:
 
