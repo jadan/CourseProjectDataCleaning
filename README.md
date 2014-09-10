@@ -1,9 +1,11 @@
 README.MD
 
 The script **run_analysis.R** uses the data from the [UCI HAR dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
+
 To run the script in R, download the dataset to your R directory and use the command source("run_analysis.R"). The script will run the appropriate 
 commands to end up with the tidy data set. To load the data set use the command tidy<-read.table("tidydata.txt", header = TRUE).
 If you are using RStudio you can then call View(tidy) to see the data.
+
 The script follows the instructions in the assigment to achieve the following objectives:
 	1. Merges the training and the test sets to create one data set.
 	2. Extracts only the measurements on the mean and standard deviation for each measurement. 
